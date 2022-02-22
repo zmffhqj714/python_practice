@@ -15,3 +15,4 @@ elif z == 3:
 elif z == 4:
     print(str(x) + " ÷ " + str(y) + " = " + str(x / y))
 
+refresh;
